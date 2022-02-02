@@ -1,5 +1,14 @@
 body {
-
+display: inline;
 background-color: #005CB9;
 color:#ffffff;
+Font-Family: 'Varela Round', Sans-Serif;
+Font-Size: 48px;
+Font-Family: 'Noto Serif', Serif;
+Font-Size: 15px;
+}
+
+.heading {
+
+    top: 90px;
 }
