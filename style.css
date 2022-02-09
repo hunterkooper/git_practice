@@ -1,7 +1,7 @@
 body {
 display: inline;
-background-color: #005cb9;
-color:#ffffff;
+background-color: #ffffff;
+color:#005cb9;
 Font-Family: 'Varela Round', Sans-Serif;
 Font-Size: 48px;
 Font-Family: 'Noto Serif', Serif;
@@ -21,10 +21,17 @@ Font-Size: 15px;
     Font-Size: 48px;
     Font-Family: 'Noto Serif', Serif;
     Font-Size: 15px;
-    margin: 10px auto;
+    margin: 20px auto;
 }
 
-p .userfield {
+  .username p {
 
-    margin: auto;
+    margin: 10px auto;
+    
+}
+
+img {
+
+    height: 100px;
+    width: 130px;
 }
